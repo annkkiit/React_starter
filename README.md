@@ -1,2 +1,1 @@
-# React_starter
-Created with CodeSandbox
+# new react project
